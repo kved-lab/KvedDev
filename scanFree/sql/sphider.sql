@@ -1,0 +1,1 @@
+delete from link_keywordg
